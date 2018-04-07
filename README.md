@@ -34,5 +34,5 @@ run `make`
 
 ## Build with:
 * [Vue](https://vuejs.org/)
-* [NodeJS] (https://nodejs.org/en/)
-* [Stellar Core] (https://www.stellar.org/developers/)
+* [NodeJS](https://nodejs.org/en/)
+* [Stellar Core](https://www.stellar.org/developers/)
