@@ -1,8 +1,8 @@
-#Coursework for CSC 466: Peer to Peer OverlayNetwork
+# Coursework for CSC 466: Peer to Peer OverlayNetwork
+ 
+## Project: Effects of Blockchain on Financial System
 
-##Project: Effects of Blockchain on Financial System
-
-##What it contains:
+##W hat it contains:
 
 This repository contains a demo of some critical feature of the Stellar network, including:
 
@@ -22,15 +22,17 @@ Example of querying account information
 ![myimage-alt-tag](logo2.png)
 
 
-##How to run:
+## How to run:
 
-###install requirements:
-`npm install package.json`
+### Install requirements:
+`npm install .`
+or run
+`make`
 
-###to run the program:
+### To run the program:
 run `make`
 
-##Build with:
+## Build with:
 * [Vue](https://vuejs.org/)
 * [NodeJS] (https://nodejs.org/en/)
 * [Stellar Core] (https://www.stellar.org/developers/)
