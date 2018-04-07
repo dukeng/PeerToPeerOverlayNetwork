@@ -2,7 +2,7 @@
  
 ## Project: Effects of Blockchain on Financial System
 
-##W hat it contains:
+## What it contains:
 
 This repository contains a demo of some critical feature of the Stellar network, including:
 
@@ -15,10 +15,10 @@ This repository contains a demo of some critical feature of the Stellar network,
 7. How to query account and see information such as public key or balances
 
 
-Example of creating a keypair
+### Example of creating a keypair
 ![myimage-alt-tag](logo1.png)
 
-Example of querying account information
+### Example of querying account information
 ![myimage-alt-tag](logo2.png)
 
 
