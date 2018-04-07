@@ -25,6 +25,7 @@ class Stellar:
 
         r = requests.get('https://friendbot.stellar.org/?addr=' + self.publickey)
         print("Public Key:", self.publickey)
+        print("Secret Key:", self.seed)
 
     def checkBalance(self):
         address = Address(address=self.publickey) # address = Address(address=publickey,network='public') for livenet
