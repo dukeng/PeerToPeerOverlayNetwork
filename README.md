@@ -16,10 +16,10 @@ This repository contains a demo of some critical feature of the Stellar network,
 
 
 ### Example of creating a keypair
-![myimage-alt-tag](logo1.png)
+![myimage-alt-tag](img/logo1.png)
 
 ### Example of querying account information
-![myimage-alt-tag](logo2.png)
+![myimage-alt-tag](img/logo2.png)
 
 
 ## How to run:
